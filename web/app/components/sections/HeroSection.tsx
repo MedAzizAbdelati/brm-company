@@ -6,7 +6,7 @@ export function HeroSection() {
     <section className="relative h-screen flex items-center justify-center bg-black">
       <div className="absolute inset-0 z-0">
         <Image
-          src="/hero-background.jpg"
+          src="/images/hero.jpeg"
           alt="Produits naturels"
           fill
           className="object-cover opacity-70"
